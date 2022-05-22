@@ -1,4 +1,5 @@
-package com.battip.model;
+package com.battip.jpa;
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;

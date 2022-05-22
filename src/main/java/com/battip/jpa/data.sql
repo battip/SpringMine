@@ -1,0 +1,1 @@
+insert into userdata values(101,'Tom');
